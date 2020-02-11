@@ -1,0 +1,1 @@
+pipenv update && echo "updated dependencies"
